@@ -1,6 +1,6 @@
-# Sniff-X - Ethical Packet Sniffer
 ![Sniff-X](screenshots/logo.png)
 
+# Sniff-X - Ethical Packet Sniffer
 ## **Developed by:** Muhammad Izaz Haider
 
 **Internship Project at:** Prodigy InfoTech
