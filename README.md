@@ -1,5 +1,4 @@
 # Sniff-X - Ethical Packet Sniffer
-
 ![Sniff-X](screenshots/logo.png)
 
 ## **Developed by:** Muhammad Izaz Haider
